@@ -1,4 +1,4 @@
-# See the Demo of project here https://shahraiz-chatapp.netlify.app/
+See the Demo of project here https://shahraiz-chatapp.netlify.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
