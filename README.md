@@ -1,7 +1,5 @@
-For Live preview please go to https://shahraiz-chatapp.netlify.app/
+# See the Demo of project here https://shahraiz-chatapp.netlify.app/
 
-
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
